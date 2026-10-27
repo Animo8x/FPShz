@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FPShz</string>
+    <string name="fps_title">معدل الإطارات (FPS)</string>
+    <string name="hz_title">معدل التحديث (Hz)</string>
+    <string name="gaming_evaluation_title">تقييم اللعب</string>
+    <string name="combined_rating_title">التقييم المشترك</string>
+    <string name="measuring">جارٍ القياس</string>
+    <string name="not_available">غير متاح</string>
+</resources>

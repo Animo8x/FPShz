@@ -1,0 +1,6 @@
+{
+  "name": "FPShz",
+  "description": "نظام تقييم ذكي ومباشر لقياس معدل الإطارات FPS ومعدل تحديث الشاشة Hz مع خطوط تقييم سلسة وتقييم مشترك للألعاب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
